@@ -38,3 +38,33 @@ Throughout this internship, I worked on real-world datasets and implemented end-
 - End-to-End ML Workflow Implementation
 
 This repository reflects my practical learning journey in Artificial Intelligence, Machine Learning, and Data Analytics during my internship at ShadowFox.
+
+
+🚀 AI / ML Project Portfolio – Tamal Girmohanta
+This repository showcases three advanced Artificial Intelligence and Machine Learning projects focused on real-world problem solving, deep learning, and intelligent system design.
+1️⃣ Advanced Language Model Analysis & Transformer Fine-Tuning
+Organization: ShadowFox
+Domain: Natural Language Processing (NLP)
+Model Used: DistilBERT
+Framework: PyTorch + HuggingFace Transformers
+📌 Overview
+Implemented and fine-tuned a transformer-based language model for sentiment classification using a fully customized training pipeline.
+Unlike high-level trainer APIs, this project focused on building the training loop manually to deeply understand optimization, backpropagation, and evaluation behavior.
+🔬 Key Features
+Custom PyTorch training loop
+Learning rate scheduler & optimizer tuning
+Transformer fine-tuning (DistilBERT)
+Metric analysis (Accuracy, F1 Score)
+Confusion Matrix evaluation
+Dataset distribution debugging
+📊 Training Results
+Epoch 1 Loss: 0.0507
+Epoch 2 Loss: 0.0082
+Accuracy: 1.0
+F1 Score: 0.0
+🧠 Key Learning
+This project demonstrated the importance of:
+Proper dataset shuffling
+Balanced evaluation metrics
+Understanding why Accuracy ≠ Model Reliability
+It strengthened practical knowledge of transformer architectures and evaluation integrity in NLP systems.
